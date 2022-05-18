@@ -22,6 +22,7 @@
 .main-section {
   background-color: transparent;
   height: 90vh;
+  overflow: hidden;
 }
 
 header {
@@ -506,6 +507,7 @@ footer {
 
 .past-festival-img {
   width: 100%;
+  height: 100%;
 }
 
 .past-descrip {
