@@ -172,7 +172,7 @@ a {
   text-align: center;
   padding-top: 5px;
   overflow: scroll;
-  text-overflow: ellipsis; 
+  text-overflow: ellipsis;
 }
 
 .location {
@@ -702,7 +702,7 @@ footer {
   .program-list {
     gap: 5px;
     padding-top: 50px;
-    flex-direction:row;
+    flex-direction: row;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
