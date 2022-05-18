@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Fara-Fara
 
-> Description the project.
+> In this project, I manage to build a web site for a gaming day. This event is called Fara-Fara
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Htlm
+- Css
+- JavaScript
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+[Video Demo](https://www.loom.com/share/4b69bc2d0f254ba5be6358c431671828)
 
 ### Prerequisites
-
-### Setup
+Local web server or an alternative
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+No installation needed
 
 ## Authors
 
-👤 **Author1**
+👤 **Alex Masangana**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/masangana/)
+- Twitter: [@twitterhandle](https://twitter.com/masangana)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/masangana)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -65,7 +43,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- [Icons](https://www.flaticon.com)
+- [Template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - etc
 
 ## 📝 License
