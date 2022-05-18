@@ -45,7 +45,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Micronautes
 - [Icons](https://www.flaticon.com)
 - [Cindy Shin's Template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - etc
