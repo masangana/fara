@@ -15,6 +15,9 @@
 
 [Video Demo](https://www.loom.com/share/4b69bc2d0f254ba5be6358c431671828)
 
+[View Demo](https://masangana.github.io/fara/)
+
+
 ### Prerequisites
 Local web server or an alternative
 
@@ -44,7 +47,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - [Icons](https://www.flaticon.com)
-- [Template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+- [Cindy Shin's Template](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 - etc
 
 ## 📝 License
