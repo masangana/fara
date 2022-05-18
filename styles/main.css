@@ -241,11 +241,22 @@ hr {
   height: 15px;
 }
 
+.descrip-container {
+  width: 50%;
+}
+
+.block-title {
+  width: 30%;
+}
+
+.block-image {
+  width: 20%;
+}
+
 .program-title {
   color: #ec5242;
   font-family: "Lato", sans-serif;
-  margin-right: 50px;
-  width: 150px;
+  width: 100%;
 }
 
 .program-descrip {
@@ -571,8 +582,8 @@ footer {
     top: 15px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: flex-start;
     padding: 0 0 0 0;
     margin: 0;
     opacity: 1;
@@ -583,6 +594,7 @@ footer {
 
   #logo {
     display: block;
+    margin-top: 10px;
     width: 150px;
     height: 40px;
   }
@@ -595,6 +607,7 @@ footer {
   .nav-logo {
     padding-right: 15px;
     padding-left: 25px;
+    margin-right: 100px;
   }
 
   .nav-link {
@@ -719,6 +732,18 @@ footer {
     text-align: center;
     padding: 5px;
     margin: 0;
+  }
+
+  .descrip-container {
+    width: 100%;
+  }
+
+  .block-title {
+    width: 100%;
+  }
+
+  .block-image {
+    width: 100%;
   }
 
   .icon {

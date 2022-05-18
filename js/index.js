@@ -16,6 +16,18 @@ const categories = [
     imageAlt: 'Fifa',
   },
   {
+    name: 'FIFA 22',
+    description: 'La plus prestigieuse des jeux de football. Affrontez les meilleurs joueurs de la catégories. En solo ou en équipe',
+    imageUrl: './ressources/images/fifa2.png',
+    imageAlt: 'Fifa',
+  },
+  {
+    name: 'FIFA 22',
+    description: 'La plus prestigieuse des jeux de football. Affrontez les meilleurs joueurs de la catégories. En solo ou en équipe',
+    imageUrl: './ressources/images/fifa2.png',
+    imageAlt: 'Fifa',
+  },
+  {
     name: 'Mortal Kombat',
     description: 'Kombat avec un K. Defier des adversaires dans des combats epiques. Fatality et Brutality sont au rendez-vous',
     imageUrl: './ressources/images/MortalKombat11.jpg',

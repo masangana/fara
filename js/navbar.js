@@ -17,10 +17,10 @@ document.querySelector('#header').innerHTML = `
 <div class="social-container">
     <ul class="socials">
         <li class="social-item">
-            <a href="#" class="social-link"><img src="/ressources/social/facebook.svg" alt="facebook" class="icon-header"></a>
+            <a href="#" class="social-link"><img src="./ressources/social/facebook.svg" alt="facebook" class="icon-header"></a>
         </li>
         <li class="social-item">
-            <a href="#" class="social-link"><img src="/ressources/social/twitter.svg" alt="twitter" class="icon-header"></a>
+            <a href="#" class="social-link"><img src="./ressources/social/twitter.svg" alt="twitter" class="icon-header"></a>
         </li>
         <li class="social-item">
             <a href="#" class="social-link">English</a>
@@ -51,7 +51,7 @@ document.querySelector('#header').innerHTML = `
             <a href="#" class="nav-link">Sponsor</a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link ff-campaign">Fara-Fara Gaming</a>
+            <a href="#" class="nav-link ff-campaign">Fara-Fara</a>
         </li>
     </ul>
     <div class="collapsed-menu">
