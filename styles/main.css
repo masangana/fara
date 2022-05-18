@@ -857,28 +857,28 @@ footer {
   }
 }
 
-@media (min-width : 980px) {
+@media (min-width: 980px) {
   #logo {
     margin-left: 80px;
     margin-right: 150px;
   }
 }
 
-@media (min-width : 1200px) {
+@media (min-width: 1200px) {
   #logo {
     margin-left: 130px;
     margin-right: 250px;
   }
 }
 
-@media (min-width : 1400px) {
+@media (min-width: 1400px) {
   #logo {
     margin-left: 130px;
     margin-right: 450px;
   }
 }
 
-@media (min-width : 1600px) {
+@media (min-width: 1600px) {
   #logo {
     margin-left: 130px;
     margin-right: 650px;
