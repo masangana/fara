@@ -169,7 +169,9 @@ a {
   color: #272a31;
   height: 100px;
   text-align: center;
-  padding-top: 25px;
+  padding-top: 5px;
+  overflow: scroll;
+  text-overflow: ellipsis; 
 }
 
 .location {
@@ -454,8 +456,7 @@ footer {
 }
 
 .Activity-logo {
-  width: 500px;
-  height: 150px;
+  width: 100%;
 }
 
 .full {
@@ -470,6 +471,8 @@ footer {
 .past-festivals {
   padding-bottom: 80px;
   width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -498,13 +501,11 @@ footer {
   justify-content: center;
   align-items: center;
   width: 90%;
-  height: 350px;
   position: relative;
 }
 
 .past-festival-img {
   width: 100%;
-  height: 100%;
 }
 
 .past-descrip {
@@ -530,7 +531,7 @@ footer {
 /** end **/
 
 /************* fin ***********/
-@media (min-width: 1262px) {
+@media (min-width: 768px) {
   /** Home **/
 
   /** Header **/
@@ -570,7 +571,7 @@ footer {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 0 150px;
+    padding: 0 0 0 0;
     margin: 0;
     opacity: 1;
     gap: 30px;
@@ -585,12 +586,13 @@ footer {
   }
 
   .nav-item {
-    margin: 16px 0;
-    padding: 10px;
+    margin: 10px 0;
+    padding: 5px;
   }
 
   .nav-logo {
-    padding-right: 200px;
+    padding-right: 15px;
+    padding-left: 25px;
   }
 
   .nav-link {
@@ -603,7 +605,7 @@ footer {
 
   .ff-campaign {
     border: 5px solid #ec5242;
-    padding: 10px;
+    padding: 5px;
     color: #ec5242;
   }
 
@@ -698,8 +700,10 @@ footer {
   .program-list {
     gap: 5px;
     padding-top: 50px;
+    flex-direction:row;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .program {
@@ -758,11 +762,13 @@ footer {
   .category-cards {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    width: 90%;
-    gap: 20px;
-    padding-top: 30px;
+    width: 95%;
+    gap: 10px;
+    padding-top: 20px;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .category-title {
@@ -783,7 +789,6 @@ footer {
   .category-image {
     width: 120px;
     height: 120px;
-    transition: 1s;
   }
 
   /** About **/

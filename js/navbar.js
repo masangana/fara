@@ -51,9 +51,6 @@ document.querySelector('#header').innerHTML = `
             <a href="#" class="nav-link">Sponsor</a>
         </li>
         <li class="nav-item">
-            <a href="#" class="nav-link">News</a>
-        </li>
-        <li class="nav-item">
             <a href="#" class="nav-link ff-campaign">Fara-Fara Gaming</a>
         </li>
     </ul>
